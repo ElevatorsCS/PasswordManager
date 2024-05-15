@@ -1,6 +1,6 @@
-**Simple Password Manager**
+**Password Manager**
 
-This is a simple command-line password manager written in Python. It allows users to create an account with a username and securely store hashed passwords. Users can then log in to access their accounts.
+This is a command-line password manager written in Python. It allows users to create an account with a username and securely store hashed passwords. Users can then log in to access their accounts.
 
 **Features**
 
